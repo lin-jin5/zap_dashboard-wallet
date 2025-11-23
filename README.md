@@ -6,7 +6,6 @@
 </p> 
 
 
-
 ### Project Overview
 Zap Tracker revolutionizes how creators and users interact with Bitcoin Lightning & Nostr by providing a unified dashboard experience. In today's fragmented ecosystem, managing Zap payments, analytics, and community engagement requires juggling multiple platforms and tools. Zap Tracker eliminates this complexity by bringing everything together in one comprehensive interface.
 
